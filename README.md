@@ -26,6 +26,7 @@
 - [🟩 Open-Source Software & Engines](#-open-source-software--engines)
 - [📊 Comparison Matrix at a Glance](#-comparison-matrix-at-a-glance)
 - [🌟 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -105,6 +106,30 @@ A curated collection of self-hosted, open-source software repositories, CLI metr
 ## 🌟 Star History
 
 [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-SaaS-MRR-ARR-Analytics-Dashboard&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-SaaS-MRR-ARR-Analytics-Dashboard&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this curated list! Maintaining and constantly updating this resource with new SaaS platforms, pricing models, and open-source metric engines takes continuous effort.
+
+If this repository brought value to your project, startup, or analytics stack, please consider supporting the project:
+
+- ⭐ **Star the repo** to help others discover it across GitHub.
+- 🍴 **Fork and share** it with fellow founders, engineers, and data analysts.
+- ☕ **Buy me a coffee / Sponsor the project:** Your generous support directly helps keep this and other curated lists actively maintained!
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20me-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+Visit the **[GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)** to support ongoing development.
 
 ---
 
